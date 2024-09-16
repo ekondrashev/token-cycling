@@ -1,0 +1,4 @@
+hvac
+boto3
+python-gnupg
+pyyaml
